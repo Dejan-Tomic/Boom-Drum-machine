@@ -1,0 +1,381 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA2A17C322F0E12E00EA193F /* crash.808.weird.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BC22F0E12E00EA193F /* crash.808.weird.wav */; };
+		FA2A17C422F0E12E00EA193F /* ride.808.weird.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BD22F0E12E00EA193F /* ride.808.weird.wav */; };
+		FA2A17C522F0E12E00EA193F /* hitom.808.3.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BE22F0E12E00EA193F /* hitom.808.3.wav */; };
+		FA2A17C622F0E12E00EA193F /* hihat.808.small.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BF22F0E12E00EA193F /* hihat.808.small.wav */; };
+		FA2A17C722F0E12E00EA193F /* snare.808.pop.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17C022F0E12E00EA193F /* snare.808.pop.wav */; };
+		FA2A17C822F0E12E00EA193F /* midtom.808.3.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17C122F0E12E00EA193F /* midtom.808.3.wav */; };
+		FA2A17C922F0E12E00EA193F /* lotom.808.3.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17C222F0E12E00EA193F /* lotom.808.3.wav */; };
+		FABC080B22F0BE81002405F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABC080A22F0BE81002405F7 /* AppDelegate.swift */; };
+		FABC080D22F0BE81002405F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABC080C22F0BE81002405F7 /* ViewController.swift */; };
+		FABC081022F0BE81002405F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FABC080E22F0BE81002405F7 /* Main.storyboard */; };
+		FABC081222F0BE82002405F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FABC081122F0BE82002405F7 /* Assets.xcassets */; };
+		FABC081522F0BE82002405F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FABC081322F0BE82002405F7 /* LaunchScreen.storyboard */; };
+		FADF2CCB22F0DC3F004C02F4 /* kick.808.big.wav in Resources */ = {isa = PBXBuildFile; fileRef = FADF2CCA22F0DC3F004C02F4 /* kick.808.big.wav */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FA2A17BC22F0E12E00EA193F /* crash.808.weird.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = crash.808.weird.wav; sourceTree = "<group>"; };
+		FA2A17BD22F0E12E00EA193F /* ride.808.weird.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ride.808.weird.wav; sourceTree = "<group>"; };
+		FA2A17BE22F0E12E00EA193F /* hitom.808.3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hitom.808.3.wav; sourceTree = "<group>"; };
+		FA2A17BF22F0E12E00EA193F /* hihat.808.small.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hihat.808.small.wav; sourceTree = "<group>"; };
+		FA2A17C022F0E12E00EA193F /* snare.808.pop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = snare.808.pop.wav; sourceTree = "<group>"; };
+		FA2A17C122F0E12E00EA193F /* midtom.808.3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = midtom.808.3.wav; sourceTree = "<group>"; };
+		FA2A17C222F0E12E00EA193F /* lotom.808.3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lotom.808.3.wav; sourceTree = "<group>"; };
+		FABC080722F0BE81002405F7 /* DrumSequencer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrumSequencer.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FABC080A22F0BE81002405F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FABC080C22F0BE81002405F7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FABC080F22F0BE81002405F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FABC081122F0BE82002405F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FABC081422F0BE82002405F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FABC081622F0BE82002405F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FADF2CCA22F0DC3F004C02F4 /* kick.808.big.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = kick.808.big.wav; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FABC080422F0BE81002405F7 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FABC07FE22F0BE81002405F7 = {
+			isa = PBXGroup;
+			children = (
+				FABC080922F0BE81002405F7 /* DrumSequencer */,
+				FABC080822F0BE81002405F7 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FABC080822F0BE81002405F7 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FABC080722F0BE81002405F7 /* DrumSequencer.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FABC080922F0BE81002405F7 /* DrumSequencer */ = {
+			isa = PBXGroup;
+			children = (
+				FABC080A22F0BE81002405F7 /* AppDelegate.swift */,
+				FABC080C22F0BE81002405F7 /* ViewController.swift */,
+				FABC080E22F0BE81002405F7 /* Main.storyboard */,
+				FABC081122F0BE82002405F7 /* Assets.xcassets */,
+				FABC081322F0BE82002405F7 /* LaunchScreen.storyboard */,
+				FABC081622F0BE82002405F7 /* Info.plist */,
+				FADF2CC922F0DBD0004C02F4 /* Sound Files */,
+			);
+			path = DrumSequencer;
+			sourceTree = "<group>";
+		};
+		FADF2CC922F0DBD0004C02F4 /* Sound Files */ = {
+			isa = PBXGroup;
+			children = (
+				FADF2CCA22F0DC3F004C02F4 /* kick.808.big.wav */,
+				FA2A17C022F0E12E00EA193F /* snare.808.pop.wav */,
+				FA2A17BF22F0E12E00EA193F /* hihat.808.small.wav */,
+				FA2A17BE22F0E12E00EA193F /* hitom.808.3.wav */,
+				FA2A17C122F0E12E00EA193F /* midtom.808.3.wav */,
+				FA2A17C222F0E12E00EA193F /* lotom.808.3.wav */,
+				FA2A17BD22F0E12E00EA193F /* ride.808.weird.wav */,
+				FA2A17BC22F0E12E00EA193F /* crash.808.weird.wav */,
+			);
+			path = "Sound Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FABC080622F0BE81002405F7 /* DrumSequencer */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FABC081922F0BE82002405F7 /* Build configuration list for PBXNativeTarget "DrumSequencer" */;
+			buildPhases = (
+				FABC080322F0BE81002405F7 /* Sources */,
+				FABC080422F0BE81002405F7 /* Frameworks */,
+				FABC080522F0BE81002405F7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DrumSequencer;
+			productName = DrumSequencer;
+			productReference = FABC080722F0BE81002405F7 /* DrumSequencer.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FABC07FF22F0BE81002405F7 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1030;
+				LastUpgradeCheck = 1030;
+				ORGANIZATIONNAME = "Dejan Tomic";
+				TargetAttributes = {
+					FABC080622F0BE81002405F7 = {
+						CreatedOnToolsVersion = 10.3;
+					};
+				};
+			};
+			buildConfigurationList = FABC080222F0BE81002405F7 /* Build configuration list for PBXProject "DrumSequencer" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FABC07FE22F0BE81002405F7;
+			productRefGroup = FABC080822F0BE81002405F7 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FABC080622F0BE81002405F7 /* DrumSequencer */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FABC080522F0BE81002405F7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FADF2CCB22F0DC3F004C02F4 /* kick.808.big.wav in Resources */,
+				FA2A17C422F0E12E00EA193F /* ride.808.weird.wav in Resources */,
+				FA2A17C922F0E12E00EA193F /* lotom.808.3.wav in Resources */,
+				FA2A17C722F0E12E00EA193F /* snare.808.pop.wav in Resources */,
+				FA2A17C622F0E12E00EA193F /* hihat.808.small.wav in Resources */,
+				FA2A17C522F0E12E00EA193F /* hitom.808.3.wav in Resources */,
+				FABC081522F0BE82002405F7 /* LaunchScreen.storyboard in Resources */,
+				FABC081222F0BE82002405F7 /* Assets.xcassets in Resources */,
+				FA2A17C822F0E12E00EA193F /* midtom.808.3.wav in Resources */,
+				FA2A17C322F0E12E00EA193F /* crash.808.weird.wav in Resources */,
+				FABC081022F0BE81002405F7 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FABC080322F0BE81002405F7 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FABC080D22F0BE81002405F7 /* ViewController.swift in Sources */,
+				FABC080B22F0BE81002405F7 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FABC080E22F0BE81002405F7 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FABC080F22F0BE81002405F7 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FABC081322F0BE82002405F7 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FABC081422F0BE82002405F7 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FABC081722F0BE82002405F7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FABC081822F0BE82002405F7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FABC081A22F0BE82002405F7 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LD7TNGND7U;
+				INFOPLIST_FILE = DrumSequencer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dejantomic.DrumSequencer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FABC081B22F0BE82002405F7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = LD7TNGND7U;
+				INFOPLIST_FILE = DrumSequencer/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.dejantomic.DrumSequencer;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FABC080222F0BE81002405F7 /* Build configuration list for PBXProject "DrumSequencer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FABC081722F0BE82002405F7 /* Debug */,
+				FABC081822F0BE82002405F7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FABC081922F0BE82002405F7 /* Build configuration list for PBXNativeTarget "DrumSequencer" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FABC081A22F0BE82002405F7 /* Debug */,
+				FABC081B22F0BE82002405F7 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FABC07FF22F0BE81002405F7 /* Project object */;
+}
