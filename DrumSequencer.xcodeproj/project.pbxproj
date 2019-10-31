@@ -7,29 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FA2A17C322F0E12E00EA193F /* crash.808.weird.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BC22F0E12E00EA193F /* crash.808.weird.wav */; };
-		FA2A17C422F0E12E00EA193F /* ride.808.weird.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BD22F0E12E00EA193F /* ride.808.weird.wav */; };
-		FA2A17C522F0E12E00EA193F /* hitom.808.3.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BE22F0E12E00EA193F /* hitom.808.3.wav */; };
-		FA2A17C622F0E12E00EA193F /* hihat.808.small.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17BF22F0E12E00EA193F /* hihat.808.small.wav */; };
-		FA2A17C722F0E12E00EA193F /* snare.808.pop.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17C022F0E12E00EA193F /* snare.808.pop.wav */; };
-		FA2A17C822F0E12E00EA193F /* midtom.808.3.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17C122F0E12E00EA193F /* midtom.808.3.wav */; };
-		FA2A17C922F0E12E00EA193F /* lotom.808.3.wav in Resources */ = {isa = PBXBuildFile; fileRef = FA2A17C222F0E12E00EA193F /* lotom.808.3.wav */; };
+		FA44C56F236B5F420066B260 /* snare.808.pop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C567236B5F420066B260 /* snare.808.pop.mp3 */; };
+		FA44C570236B5F420066B260 /* hihat.808.small.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C568236B5F420066B260 /* hihat.808.small.mp3 */; };
+		FA44C571236B5F420066B260 /* hitom.808.3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C569236B5F420066B260 /* hitom.808.3.mp3 */; };
+		FA44C572236B5F420066B260 /* crash.808.weird.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C56A236B5F420066B260 /* crash.808.weird.mp3 */; };
+		FA44C573236B5F420066B260 /* lotom.808.3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C56B236B5F420066B260 /* lotom.808.3.mp3 */; };
+		FA44C574236B5F420066B260 /* ride.808.weird.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C56C236B5F420066B260 /* ride.808.weird.mp3 */; };
+		FA44C575236B5F420066B260 /* midtom.808.3.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C56D236B5F420066B260 /* midtom.808.3.mp3 */; };
+		FA44C576236B5F420066B260 /* kick.808.big.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FA44C56E236B5F420066B260 /* kick.808.big.mp3 */; };
 		FABC080B22F0BE81002405F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABC080A22F0BE81002405F7 /* AppDelegate.swift */; };
 		FABC080D22F0BE81002405F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABC080C22F0BE81002405F7 /* ViewController.swift */; };
 		FABC081022F0BE81002405F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FABC080E22F0BE81002405F7 /* Main.storyboard */; };
 		FABC081222F0BE82002405F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FABC081122F0BE82002405F7 /* Assets.xcassets */; };
 		FABC081522F0BE82002405F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FABC081322F0BE82002405F7 /* LaunchScreen.storyboard */; };
-		FADF2CCB22F0DC3F004C02F4 /* kick.808.big.wav in Resources */ = {isa = PBXBuildFile; fileRef = FADF2CCA22F0DC3F004C02F4 /* kick.808.big.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FA2A17BC22F0E12E00EA193F /* crash.808.weird.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = crash.808.weird.wav; sourceTree = "<group>"; };
-		FA2A17BD22F0E12E00EA193F /* ride.808.weird.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = ride.808.weird.wav; sourceTree = "<group>"; };
-		FA2A17BE22F0E12E00EA193F /* hitom.808.3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hitom.808.3.wav; sourceTree = "<group>"; };
-		FA2A17BF22F0E12E00EA193F /* hihat.808.small.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = hihat.808.small.wav; sourceTree = "<group>"; };
-		FA2A17C022F0E12E00EA193F /* snare.808.pop.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = snare.808.pop.wav; sourceTree = "<group>"; };
-		FA2A17C122F0E12E00EA193F /* midtom.808.3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = midtom.808.3.wav; sourceTree = "<group>"; };
-		FA2A17C222F0E12E00EA193F /* lotom.808.3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = lotom.808.3.wav; sourceTree = "<group>"; };
+		FA44C567236B5F420066B260 /* snare.808.pop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = snare.808.pop.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/snare.808.pop.mp3"; sourceTree = "<group>"; };
+		FA44C568236B5F420066B260 /* hihat.808.small.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hihat.808.small.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/hihat.808.small.mp3"; sourceTree = "<group>"; };
+		FA44C569236B5F420066B260 /* hitom.808.3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = hitom.808.3.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/hitom.808.3.mp3"; sourceTree = "<group>"; };
+		FA44C56A236B5F420066B260 /* crash.808.weird.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = crash.808.weird.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/crash.808.weird.mp3"; sourceTree = "<group>"; };
+		FA44C56B236B5F420066B260 /* lotom.808.3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = lotom.808.3.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/lotom.808.3.mp3"; sourceTree = "<group>"; };
+		FA44C56C236B5F420066B260 /* ride.808.weird.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = ride.808.weird.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/ride.808.weird.mp3"; sourceTree = "<group>"; };
+		FA44C56D236B5F420066B260 /* midtom.808.3.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = midtom.808.3.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/midtom.808.3.mp3"; sourceTree = "<group>"; };
+		FA44C56E236B5F420066B260 /* kick.808.big.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = kick.808.big.mp3; path = "../../../../../Desktop/drum wavs/8_mp3_files (online-audio-converter/kick.808.big.mp3"; sourceTree = "<group>"; };
 		FABC080722F0BE81002405F7 /* DrumSequencer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DrumSequencer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FABC080A22F0BE81002405F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FABC080C22F0BE81002405F7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -37,7 +38,6 @@
 		FABC081122F0BE82002405F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FABC081422F0BE82002405F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FABC081622F0BE82002405F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FADF2CCA22F0DC3F004C02F4 /* kick.808.big.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = kick.808.big.wav; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,14 +84,14 @@
 		FADF2CC922F0DBD0004C02F4 /* Sound Files */ = {
 			isa = PBXGroup;
 			children = (
-				FADF2CCA22F0DC3F004C02F4 /* kick.808.big.wav */,
-				FA2A17C022F0E12E00EA193F /* snare.808.pop.wav */,
-				FA2A17BF22F0E12E00EA193F /* hihat.808.small.wav */,
-				FA2A17BE22F0E12E00EA193F /* hitom.808.3.wav */,
-				FA2A17C122F0E12E00EA193F /* midtom.808.3.wav */,
-				FA2A17C222F0E12E00EA193F /* lotom.808.3.wav */,
-				FA2A17BD22F0E12E00EA193F /* ride.808.weird.wav */,
-				FA2A17BC22F0E12E00EA193F /* crash.808.weird.wav */,
+				FA44C56A236B5F420066B260 /* crash.808.weird.mp3 */,
+				FA44C568236B5F420066B260 /* hihat.808.small.mp3 */,
+				FA44C569236B5F420066B260 /* hitom.808.3.mp3 */,
+				FA44C56E236B5F420066B260 /* kick.808.big.mp3 */,
+				FA44C56B236B5F420066B260 /* lotom.808.3.mp3 */,
+				FA44C56D236B5F420066B260 /* midtom.808.3.mp3 */,
+				FA44C56C236B5F420066B260 /* ride.808.weird.mp3 */,
+				FA44C567236B5F420066B260 /* snare.808.pop.mp3 */,
 			);
 			path = "Sound Files";
 			sourceTree = "<group>";
@@ -154,17 +154,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FADF2CCB22F0DC3F004C02F4 /* kick.808.big.wav in Resources */,
-				FA2A17C422F0E12E00EA193F /* ride.808.weird.wav in Resources */,
-				FA2A17C922F0E12E00EA193F /* lotom.808.3.wav in Resources */,
-				FA2A17C722F0E12E00EA193F /* snare.808.pop.wav in Resources */,
-				FA2A17C622F0E12E00EA193F /* hihat.808.small.wav in Resources */,
-				FA2A17C522F0E12E00EA193F /* hitom.808.3.wav in Resources */,
 				FABC081522F0BE82002405F7 /* LaunchScreen.storyboard in Resources */,
+				FA44C572236B5F420066B260 /* crash.808.weird.mp3 in Resources */,
+				FA44C570236B5F420066B260 /* hihat.808.small.mp3 in Resources */,
+				FA44C575236B5F420066B260 /* midtom.808.3.mp3 in Resources */,
 				FABC081222F0BE82002405F7 /* Assets.xcassets in Resources */,
-				FA2A17C822F0E12E00EA193F /* midtom.808.3.wav in Resources */,
-				FA2A17C322F0E12E00EA193F /* crash.808.weird.wav in Resources */,
+				FA44C571236B5F420066B260 /* hitom.808.3.mp3 in Resources */,
+				FA44C576236B5F420066B260 /* kick.808.big.mp3 in Resources */,
 				FABC081022F0BE81002405F7 /* Main.storyboard in Resources */,
+				FA44C574236B5F420066B260 /* ride.808.weird.mp3 in Resources */,
+				FA44C56F236B5F420066B260 /* snare.808.pop.mp3 in Resources */,
+				FA44C573236B5F420066B260 /* lotom.808.3.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

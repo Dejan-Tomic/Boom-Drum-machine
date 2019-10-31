@@ -37,7 +37,7 @@ class ViewController: UIViewController {
 
     
     func playSoundFinger1(soundFileName: String) {
-        let soundURL = Bundle.main.url(forResource: soundFileName, withExtension: "wav")
+        let soundURL = Bundle.main.url(forResource: soundFileName, withExtension: "mp3")
         
         do {
             audioPlayerFinger1 = try AVAudioPlayer(contentsOf: soundURL!)
@@ -48,7 +48,7 @@ class ViewController: UIViewController {
     }
     
     func playSoundFinger2(soundFileName: String) {
-        let soundURL = Bundle.main.url(forResource: soundFileName, withExtension: "wav")
+        let soundURL = Bundle.main.url(forResource: soundFileName, withExtension: "mp3")
         
         do {
             audioPlayerFinger2 = try AVAudioPlayer(contentsOf: soundURL!)
